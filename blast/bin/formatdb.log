@@ -1,0 +1,21 @@
+
+========================[ Apr 16, 2011 10:06 PM ]========================
+ERROR: [000.000] No database name was specified
+
+========================[ Apr 16, 2011 10:39 PM ]========================
+Version 2.2.24 [Aug-08-2010]
+Started database file "..\swissprot"
+ERROR: [000.000] Could not open ..\swissprot
+
+
+========================[ Apr 16, 2011 10:40 PM ]========================
+Version 2.2.24 [Aug-08-2010]
+Started database file "swissprot"
+ERROR: [000.000] Could not open swissprot
+
+
+========================[ Apr 16, 2011 10:40 PM ]========================
+Version 2.2.24 [Aug-08-2010]
+Started database file "..\data\swissprot"
+Formatted 443489 sequences in volume 0
+SUCCESS: formatted database ..\data\swissprot

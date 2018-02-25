@@ -1,0 +1,2 @@
+fadD5|O07411	IMPDH1|P20839	0.99847	interaction
+groEL|I6YC25	BCKDHB|P21953	0.99778	interaction
